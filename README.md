@@ -78,3 +78,18 @@ torch
 tabulate
 
 
+#Screenshots of demo in streamlit
+
+![image](https://github.com/user-attachments/assets/55f6931f-972e-44c8-aa2a-da95723f87f0)
+
+![image](https://github.com/user-attachments/assets/de6b85af-ca81-4bd1-9f0c-4d85723b5a95)
+
+![image](https://github.com/user-attachments/assets/3f0efedd-7a21-4f8d-8099-b57cbcfb112f)
+
+![image](https://github.com/user-attachments/assets/2ffc2588-2a49-4340-aee5-8b1ac7b21519)
+
+
+
+
+
+
